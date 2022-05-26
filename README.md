@@ -1,16 +1,43 @@
-### Hi there 👋
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<!--
-**RicardoVieira2s/RicardoVieira2s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://images.unsplash.com/photo-1605379399843-5870eea9b74e?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1198" 
+alt="dust mite" width="100%" title="By Benjamin Combs via Unsplash">
 
-Here are some ideas to get you started:
+### 🤵 About Me:
+- 🏦 I'm currently a software developer student
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🔮 I use  ```.React```,``` .HTML5```, ```.CSS3```,
+- 🌱 I’m currently learning ```.Next```
+- 💬 Talk to me about games, series and food 🥘
+- 😄 Pronouns: He/Him
+- ⚡ My native language is Portuguese, but i can speak English too
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+##
+
+<div align="center">
+  <a href="https://github.com/RicardoVieira2s">
+  <img width=50% src="https://github-readme-stats.vercel.app/api?username=RicardoVieira2s&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <!--<img width=50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoVieira2s&layout=compact&langs_count=7&theme=synthwave"/>--!>
+</div>
+  
+<div style="display: inline_block" align="center"><br>
+  <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+</div>
+  
+ ##
+  
+<div>
+  <a href = "mailto:vieiraricardodias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vieiraricardodias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+  
+![Snake animation](https://github.com/RicardoVieira2s/RicardoVieira2s/blob/output/github-contribution-grid-snake.svg)
+
+<h1 align="center">Thank You! 🤵 </h1>
+
