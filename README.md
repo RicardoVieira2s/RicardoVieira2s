@@ -43,7 +43,4 @@ alt="dust mite" width="50%" title="By Benjamin Combs via Unsplash">
   <a href="https://www.linkedin.com/in/vieiraricardodias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
   
-![Snake animation](https://github.com/RicardoVieira2s/RicardoVieira2s/blob/output/github-contribution-grid-snake.svg)
-
 <h1 align="center">Thank You! 🤵 </h1>
-
