@@ -8,7 +8,7 @@ alt="dust mite" width="50%" title="By Benjamin Combs via Unsplash">
 ### 🤵 About Me:
 - 🏦 I'm currently a software developer student
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 🔮 I use  ```.React```,``` .HTML5```, ```.CSS3```,
+- 🔮 I use  ```.React```,``` .HTML5```, ```.CSS3```, ```.Python```, ```.JavaScript```,
 - 🌱 I’m currently learning ```.Next```
 - 💬 Talk to me about games, series and food 🥘
 - ⚡ My native language is Portuguese, but i can speak English too
